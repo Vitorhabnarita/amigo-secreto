@@ -1,6 +1,6 @@
 # Amigo Secreto - Sorteador Online
 
-## 📜 Sobre o Projeto
+##  Sobre o Projeto
 
 Este é um sorteador de Amigo Secreto, desenvolvido como um projeto prático para aprofundar os conhecimentos em lógica de programação, manipulação de arrays e loops com JavaScript puro (Vanilla JS).
 
@@ -9,7 +9,7 @@ A aplicação permite que os usuários adicionem uma lista de participantes e, c
 
 ---
 
-### ✨ Funcionalidades Implementadas
+### Funcionalidades Implementadas
 
 * **Adição de Participantes:** Permite adicionar nomes a uma lista, que é exibida dinamicamente na tela.
 * **Validação de Entrada:**
@@ -21,7 +21,7 @@ A aplicação permite que os usuários adicionem uma lista de participantes e, c
 
 ---
 
-### 💻 Tecnologias Utilizadas
+###  Tecnologias Utilizadas
 
 * HTML5
 * CSS3
@@ -29,7 +29,7 @@ A aplicação permite que os usuários adicionem uma lista de participantes e, c
 
 ---
 
-### 🚀 Lições Aprendidas
+###  Lições Aprendidas
 
 Este projeto foi um desafio fundamental para a prática de algoritmos e manipulação de arrays. A implementação do embaralhamento Fisher-Yates foi um aprendizado chave, especialmente a lógica de percorrer um array e trocar elementos de posição de forma aleatória. Além disso, o projeto reforçou a importância de validar os dados de entrada do usuário (nomes vazios e duplicados) para garantir a integridade da aplicação e evitar bugs no sorteio.
 
